@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eugenio Roco eugenioroco@gmail.com	@eugenioroco
 
 # THANKS
 
